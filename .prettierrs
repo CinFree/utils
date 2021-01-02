@@ -1,0 +1,8 @@
+// 常用prettierrs配置
+{ 
+    "bracketSpacing": true,
+    "printWidth": 160,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none"
+}
